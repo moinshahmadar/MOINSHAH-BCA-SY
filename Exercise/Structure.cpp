@@ -8,7 +8,7 @@ struct Person {
  };
 
 int main() {
- 	Person john = {"John Doe", 30, 5.9f};
- 	std::cout <<"Name: "<< john.name <<"\nAge: "<<john.age<<"\nHeight: "<<john.height<< std::endl;
+ 	Person john = {"fenil", 30, 5.9f};
+ 	std::cout <<"Name: "<< fenil.name <<"\nAge: "<<fenil.age<<"\nHeight: "<<fenil.height<< std::endl;
  	return 0;
 }
