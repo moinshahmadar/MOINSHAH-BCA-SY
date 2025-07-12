@@ -15,7 +15,7 @@ void introduce() {
  };
 
 int main() {
- 	Person john("John Doe", 30, 5.9f);
- 	john.introduce();
+ 	Person vaidik("vaidik", 18, 5.7f);
+ 	vaidik.introduce();
 return 0;
 }
